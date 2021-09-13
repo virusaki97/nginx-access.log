@@ -3,8 +3,10 @@ this script automates the sending of nginx access logs to a bot or private teleg
 
 Commands:
 1. Connect to ssh server and check python and pip instalation
+```
 sudo apt install python3
 sudo apt install python3-pip
+```
 2. Create a telegram bot from telegram "BotFather" bot
 3. sudo pip3 install telegram-send
 4. telegram-send --configure
