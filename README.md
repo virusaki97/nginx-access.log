@@ -17,3 +17,7 @@ sudo apt install python3-pip
 
 **Note:**
 **Put these 2 scripts in the same directory**
+**Finally we run the run.sh script **
+
+To be continued.
+I have to run the run.sh script in the background
