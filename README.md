@@ -19,5 +19,7 @@ sudo apt install python3-pip
 **Put these 2 scripts in the same directory**
 **Finally we run the run.sh script **
 
+Test it on VPS/VDS linux server.
+
 To be continued.
 I have to run the run.sh script in the background
